@@ -24,7 +24,7 @@ const Navbar = () => {
           onClick={() => toggle()}
           className="text-xl text-[#19191c] font-semibold leading-8 cursor-pointer"
         >
-          NAVV
+          Dashboard (Admin)
         </div>
       </div>
       <div className="flex justify-start items-center gap-8">

@@ -125,7 +125,7 @@ const Bar = () => {
           </div>
         </div>
       </div>
-
+      `{" "}
       <ChartComponent
         id="column-sparkLine"
         height="100%"
@@ -193,6 +193,7 @@ const Bar = () => {
           ></SeriesDirective>
         </SeriesCollectionDirective>
       </ChartComponent>
+      `
     </div>
   );
 };
